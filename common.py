@@ -1,4 +1,4 @@
-"""Utilidades compartidas por los microservicios de StudyPulse.
+"""Utilidades compartidas por los microservicios de CanvaSLS.
 
 Ideas del curso que se aplican aquí:
   - Semana 9  : DynamoDB con tenant_id como clave de partición (multi-tenancy).
